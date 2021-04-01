@@ -10,4 +10,4 @@
 
 - [My Github](https://github.com/MCannon33/note-taker)
 
-- [Deployed App](https://mcannon33.github.io/code-quiz/)
+- [Deployed App](https://mcannon33.github.io/note-taker/)
